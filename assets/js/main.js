@@ -1,5 +1,5 @@
 /**
-* Template Name: Medilab
+* Template Name: Ayuda
 * Updated: Mar 10 2023 with Bootstrap v5.2.3
 * Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
 * Author: BootstrapMade.com
