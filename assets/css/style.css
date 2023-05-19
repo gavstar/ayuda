@@ -480,7 +480,8 @@ h6 {
   font-weight: 700;
   line-height: 56px;
 /*  text-transform: uppercase;*/
-  color: #2c4964;
+/*  color: #2c4964;*/
+  color: #000;
 }
 
 #hero h2 {
