@@ -529,7 +529,7 @@ h6 {
   background: #3291e6;
 }
 #hero img {
-  border-radius: 33px;
+  border-bottom: 3px solid #ccc;
 }
 
 @media (min-width: 1024px) {
