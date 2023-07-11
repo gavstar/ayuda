@@ -191,13 +191,13 @@ h6 {
 }
 
 #header .logo {
-  font-size: 35px;
+  font-size: 42px;
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Lobster", sans-serif;
 }
 
 #header .logo a {
@@ -483,7 +483,7 @@ h6 {
 #hero {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(9, 0, 46, 0.73)), url("../img/hero-bg.jpg") top center;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.32), rgba(122, 122, 122, 0.53)), url("../img/hero-bg.jpg") top center;
   background-size: cover;
   margin-bottom: -200px;
 }
@@ -493,7 +493,7 @@ h6 {
 }
 
 #hero h1 {
-  margin: 0;
+  margin-top: 20px;
   font-size: 43px;
   font-weight: 700;
   line-height: 56px;
@@ -720,7 +720,7 @@ section {
   border-radius: 10px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  padding: 20px 30px;
+  padding: 20px 20px;
   width: 100%;
 }
 
@@ -927,9 +927,9 @@ section {
 }
 
 .counts .count-box span {
-  font-size: 36px;
+  font-size: 46px;
   display: block;
-  font-weight: 600;
+  font-weight: 1000;
   color: #082744;
 }
 
@@ -1300,7 +1300,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Lobster", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
