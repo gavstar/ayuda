@@ -1808,5 +1808,20 @@ section {
 }
 
 .icon-box img {
-  border-radius: 11px;
+  border-radius: 7px;
+}
+
+h4 {
+  color: #000;
+}
+
+.grey-img {
+  opacity: 0.8;
+  filter: alpha(opacity=80); /* msie */
+  background-color: #1977cc;
+  border-radius: 7px;
+}
+.grey-img img {
+  opacity: 0.4;
+  filter: alpha(opacity=80); /* msie */
 }
