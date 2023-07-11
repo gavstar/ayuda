@@ -226,6 +226,7 @@ h6 {
   border-bottom: 2px solid #333;
   border-right: 2px solid #333;
   line-height: 18px;
+  display:none;
 }
 
 .appointment-btn:hover {
@@ -237,6 +238,7 @@ h6 {
   .appointment-btn {
     margin: 0 15px 0 0;
     padding: 6px 18px;
+    display: none;
   }
 }
 
